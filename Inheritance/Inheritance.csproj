@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Mod04Class01.cs" />
+    <Compile Include="Mod04Class02.cs" />
     <Compile Include="PresentationObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
